@@ -2,7 +2,7 @@
 
 ## About
 
-[Demoblaze](https://www.demoblaze.com/) Demoblaze.com is a website that provides a demo e-commerce platform where users can browse products, add them to cart, and perform other typical e-commerce activities.
+[Demoblaze](https://www.demoblaze.com/) is a website that provides a demo e-commerce platform where users can browse products, add them to cart, and perform other typical e-commerce activities.
 
 ## Test Documentation
 
@@ -10,14 +10,19 @@ Test Documentation Web Testing can access [here](https://docs.google.com/spreads
 
 ## Test Report
 #### - Sign Up Page
+![SignUpReport.jpg](SignUpReport.jpg)
 
 #### - Login Page
+![LoginReport.jpg](LoginReport.jpg)
 
 #### - Home Page
+![HomePageReport.jpg](HomePageReport.jpg)
 
 #### - Product Page
+![ProductPageReport.jpg](ProductPageReport.jpg)
 
 #### - Cart Page
+![CartPageReport.jpg](CartPageReport.jpg)
 
 ## Tools & Tech Stack
 - [Java 8](https://www.oracle.com/java/technologies/downloads/#java8)
