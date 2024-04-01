@@ -34,7 +34,7 @@ Test Documentation Web Testing can access [here](https://docs.google.com/spreads
 
 ## Installation
 - Install  [Java 8](https://www.oracle.com/java/technologies/downloads/#java8) and [Maven](https://maven.apache.org/download.cgi) on your device
-- We recommended you run this project in IntelliJ IDEA and make sure to install Maven and Cucumber for Java and Gherkins first
+- I recommend you run this project in IntelliJ IDEA and make sure to install Maven and Cucumber for Java and Gherkins first
 - Clone project on your device
 ```
 git clone https://github.com/sofiemiranti/DemoblazeAutomation.git
